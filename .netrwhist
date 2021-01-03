@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/pjh3974/.vim/bundle'
+let g:netrw_dirhist_9='/home/pjh3974/.vim'
+let g:netrw_dirhist_8='/home/pjh3974/.config/lemonbar/hooks'
+let g:netrw_dirhist_7='/home/pjh3974/.config/tmux-powerline'
+let g:netrw_dirhist_6='/home/pjh3974/.vim'
+let g:netrw_dirhist_5='/home/pjh3974/.config/urxvt/ext'
+let g:netrw_dirhist_4='/home/pjh3974/.vim'
+let g:netrw_dirhist_3='/home/pjh3974/.config'
+let g:netrw_dirhist_2='/home/pjh3974/.config/bspwm'
+let g:netrw_dirhist_1='/home/pjh3974/.tmux'
